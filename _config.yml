@@ -1,4 +1,3 @@
-layout_spectrum: 0.06922948872670531
 typography_spectrum: 0.3531851244624704
 color:
   brandStrength: 0.8532132594846189
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.06922948872670531
 name: whiptastic
 title: hello.
+description: let's see what happens next
