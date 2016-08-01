@@ -1,0 +1,14 @@
+layout_spectrum: 0.06922948872670531
+typography_spectrum: 0.3531851244624704
+color:
+  brandStrength: 0.8532132594846189
+  lightness: 0.481565936235711
+  saturation: 0.6195272381883115
+  rhythmicContrast: 0.115846126107499
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: whiptastic
