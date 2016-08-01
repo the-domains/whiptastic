@@ -6,9 +6,10 @@ color:
   saturation: 0.6195272381883115
   rhythmicContrast: 0.115846126107499
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: whiptastic
+title: hello.
